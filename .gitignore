@@ -4,3 +4,5 @@ nbproject/private/
 *.class
 .DS_Store
 Thumbs.db
+config.properties
+config.properties
